@@ -1,4 +1,4 @@
-# Adventure_Works_Project_PowerBI
+# Adventure Works Analysis Project
 
 ![Untitled](https://github.com/harshitgahlaut/Adventure_Works_Project_PowerBI/assets/142779836/74ae68b8-59fa-411b-97e5-c431b7cd6860)
 
@@ -9,6 +9,8 @@ This project focuses on analyzing the overall performance of "Adventure Works", 
 ## Tech Stack Used
 
 ![Untitled](https://github.com/harshitgahlaut/Adventure_Works_Project_PowerBI/assets/142779836/36ed481d-3352-4434-87fd-09781e9ae7bd)
+
+PowerBI
 
 ## 🛠️ Skills showcased in this Project
 
