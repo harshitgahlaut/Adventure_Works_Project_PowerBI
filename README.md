@@ -54,5 +54,4 @@ Key insights about the busniess were generated on the below aspects-
 ![customer 3](https://github.com/harshitgahlaut/Adventure_Works_Project_PowerBI/assets/142779836/388e27f3-9ff4-4d05-8e00-487feb4f5fdd)
 
 ## End
-
 Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/harshitt-gahlaut/
